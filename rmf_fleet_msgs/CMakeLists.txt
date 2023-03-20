@@ -38,6 +38,7 @@ set(msg_files
   "msg/RobotImage.msg"
   "msg/Header.msg"
   "msg/ImagePixel.msg"
+  "msg/FleetImage.msg"
 )
 
 set(srv_files
