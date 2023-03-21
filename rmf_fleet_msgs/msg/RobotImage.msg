@@ -1,9 +1,3 @@
 string fleet_name
 string robot_name
-Header image_header
-uint32 height
-uint32 width
-string encoding
-bool is_bigendian
-uint32 step
-ImagePixel[] data
+sensor_msgs/Image[] robots

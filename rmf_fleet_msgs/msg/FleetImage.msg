@@ -1,2 +1,2 @@
 string name
-sensor_msgs/Image[] robots
+RobotImage[] robots
