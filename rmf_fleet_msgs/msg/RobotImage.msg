@@ -1,3 +1,3 @@
 string fleet_name
 string robot_name
-sensor_msgs/Image[] robots
+sensor_msgs/Image robots
