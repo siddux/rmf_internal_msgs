@@ -37,7 +37,6 @@ set(msg_files
   "msg/SpeedLimitRequest.msg"
   "msg/LaneStates.msg"
   "msg/RobotImage.msg"
-  "msg/Header.msg"
   "msg/ImagePixel.msg"
   "msg/FleetImage.msg"
 )
